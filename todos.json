@@ -1,1 +1,62 @@
-[]
+[
+    {
+        "id": 1742195763189,
+        "title": "Complete Empower Courses",
+        "date": "2025-03-21",
+        "priority": {
+            "Extreme": false,
+            "Moderate": true,
+            "Low": false
+        },
+        "description": "Complete all courses",
+        "status": "Complete"
+    },
+    {
+        "id": 1742195900430,
+        "title": "Complete Course",
+        "date": "2025-03-19",
+        "priority": {
+            "Extreme": true,
+            "Moderate": false,
+            "Low": false
+        },
+        "description": "Complete React Course",
+        "status": "Incomplete"
+    },
+    {
+        "id": 1742212548847,
+        "title": "Complete React Course",
+        "date": "2025-03-22",
+        "priority": {
+            "Extreme": true,
+            "Moderate": false,
+            "Low": false
+        },
+        "description": "Complete and make Project on Task Manager\n",
+        "status": "Incomplete"
+    },
+    {
+        "id": 1742213059330,
+        "title": "Complete Figma Course",
+        "date": "2025-03-28",
+        "priority": {
+            "Extreme": true,
+            "Moderate": false,
+            "Low": false
+        },
+        "description": "Complete all the modules and create Task Manger Project",
+        "status": "Complete"
+    },
+    {
+        "id": 1742274605169,
+        "title": "Learn About FastAPI",
+        "date": "2025-03-21",
+        "priority": {
+            "Extreme": true,
+            "Moderate": false,
+            "Low": false
+        },
+        "description": "Leran about FastAPI and create a basic APIs for CRUD operation.\n",
+        "status": "Incomplete"
+    }
+]
